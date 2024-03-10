@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/weekly-sales-store-predictions.git```
+```$ git clone https://github.com/thimyxuan/weekly-sales-store-predictions.git```
 
 ## Dépendances
 
